@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Francesco
 
-<!--
-**FrancescoDevStudio/FrancescoDevStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python automation developer focused on bots, monitoring systems and API integrations.
 
-Here are some ideas to get you started:
+I build tools that automate tasks and connect online services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Technologies
+Python • Automation • APIs • Bots • Monitoring
+
+## 🚀 What I build
+- automation tools
+- monitoring systems
+- service integrations
+- experimental bots
